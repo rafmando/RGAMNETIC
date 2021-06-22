@@ -1,17 +1,17 @@
 # RGAMNETIC
 
 
-### `Create react app` 
+### `Run rgamnetic` 
 
 * Run to create react app
 
 ```
-npx create-react-app my-app
+cd rg-app
 ```
-### `Add Router`
-* Add react router
-```
-npm install react-router-dom 
+* npm start
 
 ```
+npm start
+```
+
 
